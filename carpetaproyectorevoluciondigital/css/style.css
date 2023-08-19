@@ -1,0 +1,31 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+}
+body {
+   border: 2px solid rgb(17, 1, 1);
+   color: white;
+   background-image: url(../imagenes/backgrounddes3.jpg); 
+   background-size: cover;
+   background-position: center center;
+   
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
+}
+
+  .headerlogo {
+   width="800";
+
+  }
+
+  footer{
+   margin-top: auto;
+   background: black;
+   height: 100px;
+   color: white;
+
+  }
+   
